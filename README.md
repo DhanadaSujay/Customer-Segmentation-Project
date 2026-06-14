@@ -26,4 +26,3 @@ This roject performs customer segmentation using K-Means Clustering in Python.
 - customer_segmentation.py
 - customers.xlsx
 - images
-- i 
